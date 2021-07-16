@@ -1,0 +1,74 @@
+@charset "utf-8";
+body{
+	margin: 0;
+}
+.top_header{
+	height:77px;
+	margin:0;
+}
+.nav-container{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: blue;
+	list-style-type: none;
+}
+
+.nav-item{
+	padding: 15px;
+	cursor: pointer;
+}
+
+.nav-item a{
+	text-align: center;
+	text-decoration:none;
+	color:white;
+}
+.top_logo h1 img{
+	width:270px;
+	height:100px;
+	float:left;
+}
+.search_button{
+	width:50px;
+	height:100%;
+	border:0px;
+	background: blue;
+	outline: none;
+	float:right;
+	color:white;
+}
+.search_area{
+	position:absolute;
+	height:40px;
+	left:350px;
+	width:400px;
+	border: 1px solid #1b5ac2;
+}
+.search_option{
+	height:100%;
+}
+.search_text{
+	
+	font-size:24px;
+	width:325px;
+	border:1px;
+	
+}
+.my_service{
+	position:absolute;
+	right:-1px;
+}
+
+.login_button{
+	padding:5px;
+	width:50px;
+	height:50px;
+}
+.register_button{
+	padding:5px;
+	width: 70px;
+	height:50px;
+}

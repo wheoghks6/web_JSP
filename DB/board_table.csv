@@ -1,0 +1,6 @@
+board_num,title,user_id,content,readcount,timestamp
+12,테스트,admin,테스트세트스,8,"2021.06.13 18:15:40"
+15,sfsdf,pw4ngc0,asAAAAAAAAAAAAAAAAAAAAAAA,5,"2021.06.13 20:06:06"
+16,테스트,pw4ngc0,"테스트 입니다.",4,"2021.06.14 06:23:01"
+17,관리자입니다.,admin,"안녕하세요?<br>관리자입니다.<br>요즘날이 매우덥습니다.",3,"2021.06.15 02:57:55"
+18,안녕하세요?,abcde,안녕하세요<br><br>abcde입니다.<br><br>하하하핳<br>하함ㄴㅇ함ㄴㅇ하<br>ㄴㅇ핞<br>,7,"2021.06.15 03:00:06"
